@@ -1,0 +1,17 @@
+{
+    "name": "px-to-rem-converter",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+      "next": "latest",
+      "react": "latest",
+      "react-dom": "latest"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+    "license": "MIT"
+  }
